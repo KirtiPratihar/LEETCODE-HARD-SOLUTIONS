@@ -25,7 +25,10 @@ This repository contains solutions to **LeetCode Hard** level problems, implemen
       cd leetcode-easy-solutions
 3. Install necessary dependencies (if any):
       ```bash
-   
+      pip install -r requirements.txt
+4. Open the Jupyter notebooks:
+   ```bash
+   jupyter notebook
 
 
 
