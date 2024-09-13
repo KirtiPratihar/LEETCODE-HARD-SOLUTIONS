@@ -29,6 +29,10 @@ This repository contains solutions to **LeetCode Hard** level problems, implemen
 4. Open the Jupyter notebooks:
    ```bash
    jupyter notebook
+5. Choose a notebook from the list and run it to see the solution and test cases.
+
+Sample Problem
+Each problem notebook includes the following sections:
 
 
 
