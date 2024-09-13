@@ -35,4 +35,10 @@ Sample Problem
 Each problem notebook includes the following sections:
 
 
+**Problem Description: A brief description of the LeetCode problem (with the link to the problem).**
+**Approach:** Explanation of the chosen approach to solve the problem.
+**Code:** Python implementation of the solution.
+**Test Cases:** A few test cases used to verify the correctness of the solution.
+
+
 
