@@ -18,13 +18,13 @@ This repository contains solutions to **LeetCode Hard** level problems, implemen
 
 ## How to Use
 1. Clone the repository:
-```bash
+   ```bash
    git clone https://github.com/your-username/leetcode-easy-solutions.git
 2. Navigate to the project folder:
-   ```bash
-   cd leetcode-easy-solutions
+      ```bash
+      cd leetcode-easy-solutions
 3. Install necessary dependencies (if any):
-   ```bash
+      ```bash
    
 
 
